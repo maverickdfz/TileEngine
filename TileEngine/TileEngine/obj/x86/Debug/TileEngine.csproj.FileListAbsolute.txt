@@ -21,3 +21,26 @@ C:\Users\Maverick\Documents\Visual Studio 2010\Projects\TileEngine\TileEngine\Ti
 C:\Users\Maverick\Documents\Visual Studio 2010\Projects\TileEngine\TileEngine\TileEngine\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Users\Maverick\Documents\Visual Studio 2010\Projects\TileEngine\TileEngine\TileEngine\obj\x86\Debug\TileEngine.exe
 C:\Users\Maverick\Documents\Visual Studio 2010\Projects\TileEngine\TileEngine\TileEngine\obj\x86\Debug\TileEngine.pdb
+C:\Users\Maverick\Desktop\TileEngine\TileEngine\TileEngine\bin\x86\Debug\Content\bricks.xnb
+C:\Users\Maverick\Desktop\TileEngine\TileEngine\TileEngine\bin\x86\Debug\Content\bricks_nm.xnb
+C:\Users\Maverick\Desktop\TileEngine\TileEngine\TileEngine\bin\x86\Debug\Content\ciottoli_bw.xnb
+C:\Users\Maverick\Desktop\TileEngine\TileEngine\TileEngine\bin\x86\Debug\Content\ciottoli_cm.xnb
+C:\Users\Maverick\Desktop\TileEngine\TileEngine\TileEngine\bin\x86\Debug\Content\ciottoli_normal.xnb
+C:\Users\Maverick\Desktop\TileEngine\TileEngine\TileEngine\bin\x86\Debug\Content\mud_wa_nm.xnb
+C:\Users\Maverick\Desktop\TileEngine\TileEngine\TileEngine\bin\x86\Debug\Content\se_free_rock_texture.xnb
+C:\Users\Maverick\Desktop\TileEngine\TileEngine\TileEngine\bin\x86\Debug\Content\se_free_wood_texture.xnb
+C:\Users\Maverick\Desktop\TileEngine\TileEngine\TileEngine\bin\x86\Debug\Content\wood_axis.xnb
+C:\Users\Maverick\Desktop\TileEngine\TileEngine\TileEngine\bin\x86\Debug\Content\wood_axis_light.xnb
+C:\Users\Maverick\Desktop\TileEngine\TileEngine\TileEngine\bin\x86\Debug\Content\wood_axis_lightwood.xnb
+C:\Users\Maverick\Desktop\TileEngine\TileEngine\TileEngine\bin\x86\Debug\Content\wood_base.xnb
+C:\Users\Maverick\Desktop\TileEngine\TileEngine\TileEngine\bin\x86\Debug\Content\se_free_dirt_texture.xnb
+C:\Users\Maverick\Desktop\TileEngine\TileEngine\TileEngine\bin\x86\Debug\Content\se_free_grass_texture.xnb
+C:\Users\Maverick\Desktop\TileEngine\TileEngine\TileEngine\bin\x86\Debug\Content\se_free_ground_texture.xnb
+C:\Users\Maverick\Desktop\TileEngine\TileEngine\TileEngine\bin\x86\Debug\Content\se_free_mud_texture.xnb
+C:\Users\Maverick\Desktop\TileEngine\TileEngine\TileEngine\bin\x86\Debug\Content\se_free_road_texture.xnb
+C:\Users\Maverick\Desktop\TileEngine\TileEngine\TileEngine\bin\x86\Debug\TileEngine.exe
+C:\Users\Maverick\Desktop\TileEngine\TileEngine\TileEngine\bin\x86\Debug\TileEngine.pdb
+C:\Users\Maverick\Desktop\TileEngine\TileEngine\TileEngine\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Maverick\Desktop\TileEngine\TileEngine\TileEngine\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Maverick\Desktop\TileEngine\TileEngine\TileEngine\obj\x86\Debug\TileEngine.exe
+C:\Users\Maverick\Desktop\TileEngine\TileEngine\TileEngine\obj\x86\Debug\TileEngine.pdb

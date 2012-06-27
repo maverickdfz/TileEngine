@@ -7,7 +7,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Maverick\Documents\Visual Studio 2010\Projects\TileEngine\TileEngine\TileEngine\bin\x86\Debug\Content\bricks.xnb</Output>
+      <Output>C:\Users\Maverick\Desktop\TileEngine\TileEngine\TileEngine\bin\x86\Debug\Content\bricks.xnb</Output>
       <Time>2012-06-27T23:13:54.4751311+01:00</Time>
     </Item>
     <Item>
@@ -16,7 +16,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Maverick\Documents\Visual Studio 2010\Projects\TileEngine\TileEngine\TileEngine\bin\x86\Debug\Content\bricks_nm.xnb</Output>
+      <Output>C:\Users\Maverick\Desktop\TileEngine\TileEngine\TileEngine\bin\x86\Debug\Content\bricks_nm.xnb</Output>
       <Time>2012-06-27T23:13:54.4811314+01:00</Time>
     </Item>
     <Item>
@@ -25,7 +25,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Maverick\Documents\Visual Studio 2010\Projects\TileEngine\TileEngine\TileEngine\bin\x86\Debug\Content\ciottoli_bw.xnb</Output>
+      <Output>C:\Users\Maverick\Desktop\TileEngine\TileEngine\TileEngine\bin\x86\Debug\Content\ciottoli_bw.xnb</Output>
       <Time>2012-06-27T23:13:54.4861317+01:00</Time>
     </Item>
     <Item>
@@ -34,7 +34,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Maverick\Documents\Visual Studio 2010\Projects\TileEngine\TileEngine\TileEngine\bin\x86\Debug\Content\ciottoli_cm.xnb</Output>
+      <Output>C:\Users\Maverick\Desktop\TileEngine\TileEngine\TileEngine\bin\x86\Debug\Content\ciottoli_cm.xnb</Output>
       <Time>2012-06-27T23:13:54.491132+01:00</Time>
     </Item>
     <Item>
@@ -43,7 +43,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Maverick\Documents\Visual Studio 2010\Projects\TileEngine\TileEngine\TileEngine\bin\x86\Debug\Content\ciottoli_normal.xnb</Output>
+      <Output>C:\Users\Maverick\Desktop\TileEngine\TileEngine\TileEngine\bin\x86\Debug\Content\ciottoli_normal.xnb</Output>
       <Time>2012-06-27T23:13:54.4971324+01:00</Time>
     </Item>
     <Item>
@@ -52,7 +52,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Maverick\Documents\Visual Studio 2010\Projects\TileEngine\TileEngine\TileEngine\bin\x86\Debug\Content\mud_wa_nm.xnb</Output>
+      <Output>C:\Users\Maverick\Desktop\TileEngine\TileEngine\TileEngine\bin\x86\Debug\Content\mud_wa_nm.xnb</Output>
       <Time>2012-06-27T23:13:54.5021326+01:00</Time>
     </Item>
     <Item>
@@ -61,7 +61,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Maverick\Documents\Visual Studio 2010\Projects\TileEngine\TileEngine\TileEngine\bin\x86\Debug\Content\se_free_rock_texture.xnb</Output>
+      <Output>C:\Users\Maverick\Desktop\TileEngine\TileEngine\TileEngine\bin\x86\Debug\Content\se_free_rock_texture.xnb</Output>
       <Time>2012-06-27T23:13:54.5031327+01:00</Time>
     </Item>
     <Item>
@@ -70,7 +70,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Maverick\Documents\Visual Studio 2010\Projects\TileEngine\TileEngine\TileEngine\bin\x86\Debug\Content\se_free_wood_texture.xnb</Output>
+      <Output>C:\Users\Maverick\Desktop\TileEngine\TileEngine\TileEngine\bin\x86\Debug\Content\se_free_wood_texture.xnb</Output>
       <Time>2012-06-27T23:13:54.5041328+01:00</Time>
     </Item>
     <Item>
@@ -79,7 +79,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Maverick\Documents\Visual Studio 2010\Projects\TileEngine\TileEngine\TileEngine\bin\x86\Debug\Content\wood_axis.xnb</Output>
+      <Output>C:\Users\Maverick\Desktop\TileEngine\TileEngine\TileEngine\bin\x86\Debug\Content\wood_axis.xnb</Output>
       <Time>2012-06-27T23:13:54.5051328+01:00</Time>
     </Item>
     <Item>
@@ -88,7 +88,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Maverick\Documents\Visual Studio 2010\Projects\TileEngine\TileEngine\TileEngine\bin\x86\Debug\Content\wood_axis_light.xnb</Output>
+      <Output>C:\Users\Maverick\Desktop\TileEngine\TileEngine\TileEngine\bin\x86\Debug\Content\wood_axis_light.xnb</Output>
       <Time>2012-06-27T23:13:54.5061329+01:00</Time>
     </Item>
     <Item>
@@ -97,7 +97,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Maverick\Documents\Visual Studio 2010\Projects\TileEngine\TileEngine\TileEngine\bin\x86\Debug\Content\wood_axis_lightwood.xnb</Output>
+      <Output>C:\Users\Maverick\Desktop\TileEngine\TileEngine\TileEngine\bin\x86\Debug\Content\wood_axis_lightwood.xnb</Output>
       <Time>2012-06-27T23:13:54.5061329+01:00</Time>
     </Item>
     <Item>
@@ -106,7 +106,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Maverick\Documents\Visual Studio 2010\Projects\TileEngine\TileEngine\TileEngine\bin\x86\Debug\Content\wood_base.xnb</Output>
+      <Output>C:\Users\Maverick\Desktop\TileEngine\TileEngine\TileEngine\bin\x86\Debug\Content\wood_base.xnb</Output>
       <Time>2012-06-27T23:13:54.508133+01:00</Time>
     </Item>
     <Item>
@@ -115,7 +115,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Maverick\Documents\Visual Studio 2010\Projects\TileEngine\TileEngine\TileEngine\bin\x86\Debug\Content\se_free_dirt_texture.xnb</Output>
+      <Output>C:\Users\Maverick\Desktop\TileEngine\TileEngine\TileEngine\bin\x86\Debug\Content\se_free_dirt_texture.xnb</Output>
       <Time>2012-06-27T23:14:04.3446956+01:00</Time>
     </Item>
     <Item>
@@ -124,7 +124,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Maverick\Documents\Visual Studio 2010\Projects\TileEngine\TileEngine\TileEngine\bin\x86\Debug\Content\se_free_grass_texture.xnb</Output>
+      <Output>C:\Users\Maverick\Desktop\TileEngine\TileEngine\TileEngine\bin\x86\Debug\Content\se_free_grass_texture.xnb</Output>
       <Time>2012-06-27T23:14:04.3446956+01:00</Time>
     </Item>
     <Item>
@@ -133,7 +133,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Maverick\Documents\Visual Studio 2010\Projects\TileEngine\TileEngine\TileEngine\bin\x86\Debug\Content\se_free_ground_texture.xnb</Output>
+      <Output>C:\Users\Maverick\Desktop\TileEngine\TileEngine\TileEngine\bin\x86\Debug\Content\se_free_ground_texture.xnb</Output>
       <Time>2012-06-27T23:14:04.3456957+01:00</Time>
     </Item>
     <Item>
@@ -142,7 +142,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Maverick\Documents\Visual Studio 2010\Projects\TileEngine\TileEngine\TileEngine\bin\x86\Debug\Content\se_free_mud_texture.xnb</Output>
+      <Output>C:\Users\Maverick\Desktop\TileEngine\TileEngine\TileEngine\bin\x86\Debug\Content\se_free_mud_texture.xnb</Output>
       <Time>2012-06-27T23:14:04.3466957+01:00</Time>
     </Item>
     <Item>
@@ -151,7 +151,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Maverick\Documents\Visual Studio 2010\Projects\TileEngine\TileEngine\TileEngine\bin\x86\Debug\Content\se_free_road_texture.xnb</Output>
+      <Output>C:\Users\Maverick\Desktop\TileEngine\TileEngine\TileEngine\bin\x86\Debug\Content\se_free_road_texture.xnb</Output>
       <Time>2012-06-27T23:14:04.3476958+01:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
@@ -160,10 +160,10 @@
       <TargetProfile>HiDef</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Users\Maverick\Documents\Visual Studio 2010\Projects\TileEngine\TileEngine\TileEngineContent\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\Maverick\Documents\Visual Studio 2010\Projects\TileEngine\TileEngine\TileEngine\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\Maverick\Documents\Visual Studio 2010\Projects\TileEngine\TileEngine\TileEngineContent\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\Maverick\Documents\Visual Studio 2010\Projects\TileEngine\TileEngine\TileEngine\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\Maverick\Desktop\TileEngine\TileEngine\TileEngineContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Maverick\Desktop\TileEngine\TileEngine\TileEngine\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Maverick\Desktop\TileEngine\TileEngine\TileEngineContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Maverick\Desktop\TileEngine\TileEngine\TileEngine\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>

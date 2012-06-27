@@ -23,18 +23,32 @@ namespace TileEngine
 
         int[,] tileMap = new int[,]
         {
-            {1, 6, 1, 4, 1, 0, 0, 0},
-            {1, 6, 1, 4, 1, 0, 0, 0},
-            {1, 6, 1, 4, 1, 1, 1, 3},
-            {1, 6, 1, 4, 4, 4, 1, 3},
-            {1, 6, 1, 1, 1, 4, 1, 3},
-            {1, 6, 1, 5, 1, 4, 1, 3},
-            {1, 6, 1, 5, 1, 4, 1, 3},
-            {1, 6, 1, 5, 1, 4, 1, 3},
+            {1, 6, 1, 4, 1, 0, 0, 0, 1, 6, 1, 4, 1, 0, 0, 0},
+            {1, 6, 1, 4, 1, 0, 0, 0, 1, 6, 1, 4, 1, 0, 0, 0},
+            {1, 6, 1, 4, 1, 1, 1, 3, 1, 6, 1, 4, 1, 1, 1, 3},
+            {1, 6, 1, 4, 4, 4, 1, 3, 1, 6, 1, 4, 4, 4, 1, 3},
+            {1, 6, 1, 1, 1, 4, 1, 3, 1, 6, 1, 1, 1, 4, 1, 3},
+            {1, 6, 1, 5, 1, 4, 1, 3, 1, 6, 1, 5, 1, 4, 1, 3},
+            {1, 6, 1, 5, 1, 4, 1, 3, 1, 6, 1, 5, 1, 4, 1, 3},
+            {1, 6, 1, 5, 1, 4, 1, 3, 1, 6, 1, 5, 1, 4, 1, 3},
+            {1, 6, 1, 4, 1, 0, 0, 0, 1, 6, 1, 4, 1, 0, 0, 0},
+            {1, 6, 1, 4, 1, 0, 0, 0, 1, 6, 1, 4, 1, 0, 0, 0},
+            {1, 6, 1, 4, 1, 1, 1, 3, 1, 6, 1, 4, 1, 1, 1, 3},
+            {1, 6, 1, 4, 4, 4, 1, 3, 1, 6, 1, 4, 4, 4, 1, 3},
+            {1, 6, 1, 1, 1, 4, 1, 3, 1, 6, 1, 1, 1, 4, 1, 3},
+            {1, 6, 1, 5, 1, 4, 1, 3, 1, 6, 1, 5, 1, 4, 1, 3},
+            {1, 6, 1, 5, 1, 4, 1, 3, 1, 6, 1, 5, 1, 4, 1, 3},
+            {1, 6, 1, 5, 1, 4, 1, 3, 1, 6, 1, 5, 1, 4, 1, 3},
         };
 
         int tileWidth = 64;
         int tileHeight = 64;
+
+        int cameraPositionX = 0;
+        int cameraPositionY = 0;
+        Point cameraPosition = Point.Zero;
+        Vector2 cameraMove = Vector2.Zero;
+        float cameraSpeed = 5.0f;
 
         public Game1()
         {
@@ -142,7 +156,45 @@ namespace TileEngine
             if(Keyboard.GetState().IsKeyDown(Keys.Escape))
                 this.Exit();
 
+            cameraMove = Vector2.Zero;
+
             // TODO: Add your update logic here
+            if (Keyboard.GetState().IsKeyDown(Keys.Up))
+                cameraMove.Y -= 1.0f;
+                //cameraPositionY--;
+            if (Keyboard.GetState().IsKeyDown(Keys.Down))
+                cameraMove.Y += 1.0f;
+                //cameraPositionY++;
+            if (Keyboard.GetState().IsKeyDown(Keys.Left))
+                cameraMove.X -= 1.0f;
+                //cameraPositionX--;
+            if (Keyboard.GetState().IsKeyDown(Keys.Right))
+                cameraMove.X += 1.0f;
+                //cameraPositionX++;
+
+            if (cameraMove.Length() != 0)
+                cameraMove.Normalize();
+
+            cameraMove *= cameraSpeed;
+
+            cameraPosition.X += (int)cameraMove.X;
+            cameraPosition.Y += (int)cameraMove.Y;
+
+            if (cameraPosition.X < 0)
+                cameraPosition.X = 0;
+            if (cameraPosition.Y < 0)
+                cameraPosition.Y = 0;
+
+            int screenWidth = GraphicsDevice.Viewport.Width;
+            int screenHeight = GraphicsDevice.Viewport.Height;
+
+            int tileMapWidth = tileMap.GetLength(1) * tileWidth;
+            int tileMapHeight = tileMap.GetLength(0) * tileHeight;
+
+            if (cameraPosition.X > tileMapWidth - screenWidth)
+                cameraPosition.X = tileMapWidth - screenWidth;
+            if (cameraPosition.Y > tileMapHeight - screenHeight)
+                cameraPosition.Y = tileMapHeight - screenHeight;
 
             base.Update(gameTime);
         }
@@ -168,7 +220,7 @@ namespace TileEngine
                     int textureIndex = tileMap[y, x];
                     Texture2D texture = textures[textureIndex];
 
-                    spriteBatch.Draw(texture, new Rectangle(x * tileWidth, y * tileHeight, tileWidth, tileHeight), Color.White);
+                    spriteBatch.Draw(texture, new Rectangle(x * tileWidth - cameraPosition.X, y * tileHeight - cameraPosition.Y, tileWidth, tileHeight), Color.White);
                 }
             }
 
